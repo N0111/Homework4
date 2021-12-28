@@ -1,0 +1,15 @@
+E:\Programming\CSharp1\lesson4\homework\2\variant2\bin\Debug\net6.0\variant2.exe
+E:\Programming\CSharp1\lesson4\homework\2\variant2\bin\Debug\net6.0\variant2.deps.json
+E:\Programming\CSharp1\lesson4\homework\2\variant2\bin\Debug\net6.0\variant2.runtimeconfig.json
+E:\Programming\CSharp1\lesson4\homework\2\variant2\bin\Debug\net6.0\variant2.dll
+E:\Programming\CSharp1\lesson4\homework\2\variant2\bin\Debug\net6.0\ref\variant2.dll
+E:\Programming\CSharp1\lesson4\homework\2\variant2\bin\Debug\net6.0\variant2.pdb
+E:\Programming\CSharp1\lesson4\homework\2\variant2\obj\Debug\net6.0\variant2.csproj.AssemblyReference.cache
+E:\Programming\CSharp1\lesson4\homework\2\variant2\obj\Debug\net6.0\variant2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\CSharp1\lesson4\homework\2\variant2\obj\Debug\net6.0\variant2.AssemblyInfoInputs.cache
+E:\Programming\CSharp1\lesson4\homework\2\variant2\obj\Debug\net6.0\variant2.AssemblyInfo.cs
+E:\Programming\CSharp1\lesson4\homework\2\variant2\obj\Debug\net6.0\variant2.csproj.CoreCompileInputs.cache
+E:\Programming\CSharp1\lesson4\homework\2\variant2\obj\Debug\net6.0\variant2.dll
+E:\Programming\CSharp1\lesson4\homework\2\variant2\obj\Debug\net6.0\ref\variant2.dll
+E:\Programming\CSharp1\lesson4\homework\2\variant2\obj\Debug\net6.0\variant2.pdb
+E:\Programming\CSharp1\lesson4\homework\2\variant2\obj\Debug\net6.0\variant2.genruntimeconfig.cache
